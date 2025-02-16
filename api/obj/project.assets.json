@@ -4908,11 +4908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleks1G\\test_cs\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\Aleks1G\\OneDrive\\Документы\\GitHub\\Test_CS_task\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Aleks1G\\test_cs\\api\\api.csproj",
+      "projectPath": "C:\\Users\\Aleks1G\\OneDrive\\Документы\\GitHub\\Test_CS_task\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Aleks1G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleks1G\\test_cs\\api\\obj\\",
+      "outputPath": "C:\\Users\\Aleks1G\\OneDrive\\Документы\\GitHub\\Test_CS_task\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleks1G\\AppData\\Roaming\\NuGet\\NuGet.Config",
